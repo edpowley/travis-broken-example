@@ -9,7 +9,7 @@ class Test extends PHPUnit_Framework_TestCase
 		$this->assertEquals(2+2,4);
   	}
 	public function testThreePlusThree() {
-		$this->assertEquals(3+3,5);
+		$this->assertEquals(3+3,6);
   	}
 }
 
